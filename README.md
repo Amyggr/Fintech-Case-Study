@@ -5,7 +5,7 @@ Homework 1
 
 ## Overview and Origin
 
-* Name of company
+* ROOT INSURANCE
 
 * When was the company incorporated?
 
