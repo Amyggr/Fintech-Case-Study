@@ -5,9 +5,13 @@ Homework 1
 
 ## Overview and Origin
 
-* ROOT INSURANCE
+* Name of company
+
+The company's name is ROOT INSURANCE.
 
 * When was the company incorporated?
+
+Root Insurance was incorporated in February 2015.
 
 * Who are the founders of the company?
 
